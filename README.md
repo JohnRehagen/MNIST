@@ -1,0 +1,2 @@
+# MNIST
+First ML project
